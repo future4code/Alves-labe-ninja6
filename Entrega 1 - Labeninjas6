@@ -1,1 +1,47 @@
+![image](https://user-images.githubusercontent.com/29798967/176284249-574de548-2881-4892-8d31-fa6e1208ed2e.png)
+
+# Projeto Labeninjas
+O Labeninjas oferecera um marketplace para prestadores de serviços, onde potenciais clientes poderão selecionar o serviço de seu interesse entre as diversas ofertas.
+
+### Funcionalidades:
+Para atender a esse objetivo as funcionalidades abaixo serão oferecidas:
+
+•	Cadastramento de  serviços ,  incluindo prazo, datas, formas de pagamento aceitas e e outros detalhes.
+
+•	Visualização da lista de serviços anunciados.
+
+•	Filtros e Ordenações;
+
+•	Adição de serviços ao carrinho;
+
+•	Remoção de itens do carrinho;
+
+•	Conclusão de compra dos serviços com valor total 
+
+### Tecnologias:
+
+- React.js (v16.13.1)
+- Axios : 
+- Styled Components 
+- Material UI (Design System selecionado em função da facilidade de uso e ampla utilização)
+- A base de serviços será cadastrada e acessada através de uma API predefinida pela Labenu.
+
+### Layout
+
+O layout foi definido na premissa de possibilitar a visualização dos serviços na pagina inicial deixando o site mais intuitivo para que o usuário tenho uma experiencia melhor
+
+### Paleta de Cores
+
+Só foram escolhidas as cores primária e secundária que fossem mais aderentes as já existentes no logo na paleta abaixo para se usar no tema.
+
+{"palette":{"common":{"black":"#000","white":"#fff"},"background":{"paper":"#fff","default":"#fafafa"},
+"primary":{"light":"rgba(103, 58, 183, 1)","main":"rgba(103, 58, 183, 1)","dark":"rgba(103, 58, 183, 1)","contrastText":"#fff"},
+"secondary":{"light":"rgba(149, 117, 205, 1)","main":"rgba(149, 117, 205, 1)","dark":"rgba(149, 117, 205, 1)","contrastText":"#fff"},
+"error":{"light":"rgba(245, 166, 35, 1)","main":"rgba(245, 166, 35, 1)","dark":"rgba(245, 166, 35, 1)","contrastText":"#fff"},
+"text":{"primary":"rgba(0, 0, 0, 0.87)","secondary":"rgba(0, 0, 0, 0.54)","disabled":"rgba(0, 0, 0, 0.38)","hint":"rgba(0, 0, 0, 0.38)"}}}
+
+
+
+
+
 
